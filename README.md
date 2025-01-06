@@ -23,7 +23,7 @@ When the condenser microphone detects sound, it generates an electrical signal. 
 - **Wires**  
 
 ## Circuit Diagram
-*(Add circuit diagram image here if available)*
+![Alt text](Noise_Level_Indicator.jpg)
 
 ## Working Principle
 1. **Sound Detection**: The condenser microphone detects sound and generates a corresponding electrical signal.
